@@ -3,5 +3,5 @@ Digital Signal Processing examples in python
 
 ## Requirements
 
-*matplotlib
-*numpy
+* matplotlib
+* numpy
